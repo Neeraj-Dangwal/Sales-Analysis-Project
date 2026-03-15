@@ -37,9 +37,9 @@ Key dashboard components include:
 
 ### Dashboard 
 
-![Dashboard](https://github.com/Neeraj-Dangwal/sales-analysis-project/blob/main/Dashboard.png)
-![Business_Insight](https://github.com/Neeraj-Dangwal/sales-analysis-project/blob/main/Business-insights.png)
-![Detailed_Analysis](https://github.com/Neeraj-Dangwal/sales-analysis-project/blob/main/Business-insights.png)
+![Dashboard](https://github.com/Neeraj-Dangwal/Sales-Analysis/blob/main/Dashboard_Screenshot/Dashboard.png)
+![Business_Insight](https://github.com/Neeraj-Dangwal/Sales-Analysis/blob/main/Dashboard_Screenshot/Business-insights.png)
+![Detailed_Analysis](https://github.com/Neeraj-Dangwal/Sales-Analysis/blob/main/Dashboard_Screenshot/Detailed_Analysis.png)
 
 
 ---
