@@ -35,7 +35,8 @@ Key dashboard components include:
 - Location-based sales insights
 - Detailed product performance analysis
 
-### Dashboard 
+## Dashboard 
+- <a href="https://github.com/Neeraj-Dangwal/Sales-Analysis/blob/main/Dashboard_Screenshot/Dashboard.png">Dashboard</a>
 
 ![Dashboard](https://github.com/Neeraj-Dangwal/Sales-Analysis/blob/main/Dashboard_Screenshot/Dashboard.png)
 ![Business_Insight](https://github.com/Neeraj-Dangwal/Sales-Analysis/blob/main/Dashboard_Screenshot/Business-insights.png)
